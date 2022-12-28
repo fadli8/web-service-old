@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="123456789">
+    <dateReleve>2022-10-10T00:00:00+01:00</dateReleve>
+    <solde>1200.0</solde>
+    <operations dateDebut="3921-02-01T00:00:00+01:00" dateFin="3921-03-02T00:00:00+01:00">
+        <operation type="CR" date="2022-10-10T00:00:00+01:00" montent="7000.01" description="ver"/>
+        <operation type="DB" date="2022-11-15T00:00:00+01:00" montent="7000.01" description="ver"/>
+    </operations>
+</releve>
